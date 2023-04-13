@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Solidity and Web3**
 
-- 💬 Ask me about **Html, Css, Javascript, React**
+- 💬 Ask me about **Javascript, React and Solidity**
 
-- 📫 How to reach me **eni_v90@yahoo.com**
+- 📫 How to reach me **eni.victor09@gmail.com**
 
 - ⚡ Fun fact **I am a Fast learner, Good team player and i also have a great sense of humor**
 
